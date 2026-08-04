@@ -79,7 +79,7 @@ The MySQL database table `users` is structured with the following schema:
 
 ## How to Run & Test
 
-1. Visit the live hosted URL: `https://user-status-database.infinityfreeapp.com/index.php`
+1. Visit the live hosted URL: [http://user-status-database.infinityfreeapp.com](http://user-status-database.infinityfreeapp.com)
 2. **Add Record:** Enter a name into the **Name** input box, an age into the **Age** box, and click **Submit**.
 3. **Verify Insertion:** Confirm that the newly created user appears instantly inside the table below with a default `Status` value of `0`.
 4. **Test Toggle Action:** Click the **Toggle** button in the *Action* column of any record to switch its status dynamically from `0` to `1` (or `1` back to `0`).
