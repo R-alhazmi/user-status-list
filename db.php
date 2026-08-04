@@ -1,8 +1,8 @@
 <?php
-$host = "sql205.infinityfree.com"; 
-$user = "if0_42575590"; 
-$pass = "hfrkVqzSojyLtWW"; 
-$dbname = "if0_42575590_user_status"; 
+$host = "your-Hostname"; 
+$user = "your-Username"; 
+$pass = "your_Password"; 
+$dbname = "your-Database Name"; 
 
 $conn = new mysqli($host, $user, $pass, $dbname);
 
